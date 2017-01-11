@@ -1,0 +1,9 @@
+(stats
+  (meta
+    (timestamp "2016-12-28T15:49:01.464-08:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>)
+    (run@ "2016/12/28 15:49:01 PST")
+    (count 11889))
+  (<http://dbpedia.org/property/acronym> 3963)
+  (<http://www.w3.org/2000/01/rdf-schema#label> 3963)
+  (<http://dbpedia.org/property/description> 3963)
+  (other 0))
